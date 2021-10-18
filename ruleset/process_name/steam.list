@@ -1,0 +1,4 @@
+# > Steam
+PROCESS-NAME,steam.exe
+PROCESS-NAME,SteamService.exe
+PROCESS-NAME,steamwebhelper.exe

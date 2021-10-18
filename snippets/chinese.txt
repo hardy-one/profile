@@ -1,0 +1,23 @@
+Hong Kong@香港
+Japan@日本
+United States@美国
+United Kingdom@英国
+Taiwan@台湾
+Singapore@新加坡
+Netherlands@荷兰
+Russia@俄罗斯
+Germany@德国
+France@法国
+Sweden@瑞典
+Austria@奥地利
+Ireland@爱尔兰
+Israel@以色列
+Italy@意大利
+Hungary@匈牙利
+Korea@韩国
+Canada@加拿大
+Australia@澳大利亚
+India@印度
+Indonesia@印尼
+Brazil@巴西
+Bulgaria@保加利亚

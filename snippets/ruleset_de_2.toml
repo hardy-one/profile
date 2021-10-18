@@ -1,0 +1,61 @@
+[[rulesets]]
+group = "DIRECT"
+ruleset = "https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Pass.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "Manual"
+ruleset = "https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/ProxyList.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "Telegram"
+ruleset = "https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/Extra/Telegram/Telegram.yaml"
+type = "clash-classic"
+
+[[rulesets]]
+group = "Google"
+ruleset = "https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/YouTube.list"
+type = "surge-ruleset"
+[[rulesets]]
+group = "Google"
+ruleset = "https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Music/YouTubeMusic.list"
+type = "surge-ruleset"
+[[rulesets]]
+group = "Google"
+ruleset = "https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Google.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "Netflix"
+ruleset = "https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/Netflix.list"
+type = "surge-ruleset"
+[[rulesets]]
+group = "Netflix"
+ruleset = "https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Fast.list"
+type = "surge-ruleset"
+
+# [[rulesets]]
+# group = "GMedia"
+# ruleset = "https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Streaming.list"
+# type = "surge-ruleset"
+[[rulesets]]
+group = "GMedia"
+ruleset = "https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/DisneyPlus.list"
+type = "surge-ruleset"
+# [[rulesets]]
+# group = "CMedia"
+# ruleset = "https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/StreamingSE.list"
+# type = "surge-ruleset"
+[[rulesets]]
+group = "CMedia"
+ruleset = "https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/StreamingSE.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "DIRECT"
+ruleset = "[]GEOIP,CN"
+
+[[rulesets]]
+group = "Manual"
+ruleset = "[]FINAL"

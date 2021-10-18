@@ -1,0 +1,12 @@
+Manual`select`[]HK`[]JP`[]SG`[]US`[]TW`[]DIRECT
+Telegram`select`[]Manual`[]HK`[]JP`[]SG`[]US`[]TW`[]DIRECT
+Google`select`[]Manual`[]HK`[]JP`[]SG`[]US`[]TW`[]DIRECT
+Netflix`select`[]Manual`[]HK`[]JP`[]SG`[]US`[]TW`[]DIRECT
+CMedia`select`[]DIRECT`[]Manual`[]HK`[]JP`[]SG`[]US`[]TW
+GMedia`select`[]Manual`[]HK`[]JP`[]SG`[]US`[]TW`[]DIRECT
+
+HK`select`香港
+JP`select`日本
+SG`select`新加坡
+US`select`美国
+TW`select`台湾

@@ -1,0 +1,19 @@
+Manual`select`[]HK`[]JP`[]SG`[]US`[]TW`[]OT`[]DIRECT
+Telegram`select`[]Manual`[]HK`[]JP`[]SG`[]US`[]TW`[]OT`[]DIRECT
+Google`select`[]Manual`[]HK`[]JP`[]SG`[]US`[]TW`[]OT`[]DIRECT
+Netflix`select`[]Manual`[]HK`[]JP`[]SG`[]US`[]TW`[]OT`[]DIRECT
+CMedia`select`[]DIRECT`[]Manual`[]HK`[]JP`[]SG`[]US`[]TW`[]OT
+GMedia`select`[]Manual`[]HK`[]JP`[]SG`[]US`[]TW`[]OT`[]DIRECT
+
+HK`select`香港`Hong Kong
+JP`select`日本`Japan
+SG`select`新加坡`Singapore
+US`select`美国`United States
+TW`select`台湾`Taiwan
+OT`select`^(?!.*(香港|台湾|新加坡|日本|美国|Hong Kong|Japan|Singapore|United States|Taiwan)).*$
+
+;HK`select`香港 AIA.*♯`香港 AIA.*\+`香港 AIA`香港 CC`香港 IEPL`香港 BGP`香港
+;JP`select`日本 AIA.*♯`日本 AIA.*\+`日本 AIA`日本 CC`日本 IEPL`日本 BGP`日本
+;SG`select`新加坡 AIA.*♯`新加坡 AIA.*\+`新加坡 AIA`新加坡 CC`新加坡 IEPL`新加坡 BGP`新加坡
+;US`select`美国 AIA.*♯`美国 AIA.*\+`美国 AIA`美国 CC`美国 BGP`美国
+;TW`select`台湾 AIA.*♯`台湾 AIA.*\+`台湾 AIA`台湾 CC`台湾 BGP`台湾
