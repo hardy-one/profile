@@ -68,9 +68,14 @@ group = "CMedia"
 ruleset = "https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/StreamingSE.yaml"
 type = "clash-classic"
 
+# [[rulesets]]
+# group = "DIRECT"
+# ruleset = "https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/Extra/ChinaIP.yaml"
+# type = "clash-ipcidr"
+
 [[rulesets]]
 group = "DIRECT"
-ruleset = "https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/Extra/ChinaIP.yaml"
+ruleset = "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/ChinaIp.yaml"
 type = "clash-ipcidr"
 
 [[rulesets]]
