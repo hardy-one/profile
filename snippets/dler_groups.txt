@@ -1,6 +1,7 @@
 Manual`select`[]HK`[]JP`[]SG`[]US`[]TW`[]OT`[]DIRECT
 Telegram`select`[]Manual`[]HK`[]JP`[]SG`[]US`[]TW`[]OT`[]DIRECT
 Google`select`[]Manual`[]HK`[]JP`[]SG`[]US`[]TW`[]OT`[]DIRECT
+MicroSoft`select`[]DIRECT`[]Manual`[]HK`[]JP`[]SG`[]US`[]TW`[]OT
 Netflix`select`[]Manual`[]HK`[]JP`[]SG`[]US`[]TW`[]OT`[]DIRECT
 CMedia`select`[]DIRECT`[]Manual`[]HK`[]JP`[]SG`[]US`[]TW`[]OT
 GMedia`select`[]Manual`[]HK`[]JP`[]SG`[]US`[]TW`[]OT`[]DIRECT
