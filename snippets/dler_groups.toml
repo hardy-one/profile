@@ -14,6 +14,11 @@ type = "select"
 rule = ["[]Manual", "[]HK", "[]JP", "[]SG", "[]US", "[]TW", "[]OT", "[]DIRECT"]
 
 [[custom_groups]]
+name = "MicroSoft"
+type = "select"
+rule = ["[]DIRECT", "[]Manual", "[]HK", "[]JP", "[]SG", "[]US", "[]TW", "[]OT"]
+
+[[custom_groups]]
 name = "Netflix"
 type = "select"
 rule = ["[]Manual", "[]HK", "[]JP", "[]SG", "[]US", "[]TW", "[]OT", "[]DIRECT"]
