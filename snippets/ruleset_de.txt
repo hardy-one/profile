@@ -5,10 +5,12 @@ Manual,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/
 Telegram,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/process_name/TelegramProc.list
 Telegram,clash-classic:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/Extra/Telegram/Telegram.yaml
 
-Google,clash-classic:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Video/YouTube.yaml
-Google,clash-classic:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Music/YouTubeMusic.yaml
+;Google,clash-classic:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Video/YouTube.yaml
+;Google,clash-classic:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Music/YouTubeMusic.yaml
+Google,surge:https://raw.githubusercontent.com/Kr328/V2rayDomains2Clash/generated/google.yaml
 Google,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/process_name/GoogleProc.list
-Google,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Google.list
+
+MicroSoft,clash-domain:https://raw.githubusercontent.com/Kr328/V2rayDomains2Clash/generated/microsoft-dev.yaml
 
 Netflix,clash-classic:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Video/Netflix.yaml
 Netflix,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Fast.list
@@ -20,6 +22,6 @@ CMedia,clash-classic:https://raw.githubusercontent.com/DivineEngine/Profiles/mas
 ;ChinaMedia,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/process_name/BiliBili.list
 
 DIRECT,clash-ipcidr:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/Extra/ChinaIP.yaml
-# DIRECT,clash-ipcidr:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/ChinaIp.yaml
+;DIRECT,clash-ipcidr:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/ChinaIp.yaml
 
 Manual,[]FINAL

@@ -2,4 +2,8 @@ PROCESS-NAME,com.android.vending
 PROCESS-NAME,com.google.android.gms
 PROCESS-NAME,com.google.android.gsf
 PROCESS-NAME,com.google.android.play.games
-PROCESS-NAME,GoogleDriveFS.exe
+# PROCESS-NAME,GoogleDriveFS.exe
+PROCESS-NAME,com.google.android.youtube
+PROCESS-NAME,com.google.android.youtube.tv
+PROCESS-NAME,com.google.android.apps.youtube.music
+PROCESS-NAME,com.google.android.youtube.tvmusic
