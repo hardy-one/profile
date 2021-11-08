@@ -7,7 +7,7 @@ Telegram,clash-classic:https://raw.githubusercontent.com/DivineEngine/Profiles/m
 
 ;Google,clash-classic:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Video/YouTube.yaml
 ;Google,clash-classic:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Music/YouTubeMusic.yaml
-Google,surge:https://raw.githubusercontent.com/Kr328/V2rayDomains2Clash/generated/google.yaml
+Google,clash-domain:https://raw.githubusercontent.com/Kr328/V2rayDomains2Clash/generated/google.yaml
 Google,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/process_name/GoogleProc.list
 
 MicroSoft,clash-domain:https://raw.githubusercontent.com/Kr328/V2rayDomains2Clash/generated/microsoft-dev.yaml
