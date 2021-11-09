@@ -11,6 +11,7 @@ Netflix,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset
 
 ;GlobalMedia,surge:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Streaming.list
 GMedia,surge:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/DisneyPlus.list
+GMedia,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/gmedia.list
 ;ChinaMedia,surge:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/StreamingSE.list
 CMedia,surge:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/StreamingSE.list
 

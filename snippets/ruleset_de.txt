@@ -17,6 +17,7 @@ Netflix,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset
 
 ;GlobalMedia,clash-classic:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Streaming.yaml
 GMedia,clash-classic:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Video/DisneyPlus.yaml
+GMedia,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/gmedia.list
 ;ChinaMedia,clash-classic:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/StreamingSE.yaml
 CMedia,clash-classic:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/StreamingSE.yaml
 ;ChinaMedia,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/process_name/BiliBili.list
