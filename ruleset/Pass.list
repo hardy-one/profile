@@ -14,6 +14,8 @@ IP-CIDR6,fc00::/7,no-resolve
 IP-CIDR6,fe80::/10,no-resolve
 IP-CIDR6,fd00::/8,no-resolve
 
+# >> mDNS
+IP-CIDR6,ff02::fb/128,,no-resolve
 IP-CIDR,224.0.0.251/32,no-resolve
 
 DOMAIN-SUFFIX,msftconnecttest.com
