@@ -5,6 +5,7 @@ MicroSoft`select`[]DIRECT`[]Manual`[]HK`[]JP`[]SG`[]US`[]TW`[]OT
 Netflix`select`[]Manual`[]HK`[]JP`[]SG`[]US`[]TW`[]OT`[]DIRECT
 CMedia`select`[]DIRECT`[]Manual`[]HK`[]JP`[]SG`[]US`[]TW`[]OT
 GMedia`select`[]Manual`[]HK`[]JP`[]SG`[]US`[]TW`[]OT`[]DIRECT
+Steam`select`[]Manual`[]DIRECT`[]HK`[]JP`[]SG`[]US`[]TW
 
 HK`select`香港`Hong Kong
 JP`select`日本`Japan
