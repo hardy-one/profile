@@ -21,7 +21,7 @@
 \[(?i:KR|Korea|KOR|首尔|韩|韓|南朝鲜),🇰🇷
 \[(North.*?Korea|朝鲜),🇰🇵
 \[(Macao|澳门|CTM),🇲🇴
-\[(Malaysia|马来西亚),🇲🇾
+\[(Malaysia|马来西亚|马来),🇲🇾
 \[(Netherlands|荷兰|阿姆斯特丹),🇳🇱
 \[(Philippines|菲律宾),🇵🇭
 \[(Romania|罗马尼亚),🇷🇴
