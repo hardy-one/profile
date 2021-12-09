@@ -22,3 +22,4 @@ Indonesia@印尼
 Brazil@巴西
 Bulgaria@保加利亚
 Malaysia@马来西亚
+Turkey@土耳其
