@@ -1,29 +1,29 @@
-DIRECT,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Pass.list
-Manual,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/process_name/ProxyProc.list
-Manual,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/ProxyList.list
+DIRECT,surge:https://raw.iqiq.io/hardy-one/profile/master/ruleset/Pass.list
+Manual,surge:https://raw.iqiq.io/hardy-one/profile/master/ruleset/process_name/ProxyProc.list
+Manual,surge:https://raw.iqiq.io/hardy-one/profile/master/ruleset/ProxyList.list
 
-Telegram,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/process_name/TelegramProc.list
-Telegram,clash-classic:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/Extra/Telegram/Telegram.yaml
+Telegram,surge:https://raw.iqiq.io/hardy-one/profile/master/ruleset/process_name/TelegramProc.list
+Telegram,clash-classic:https://raw.iqiq.io/DivineEngine/Profiles/master/Clash/RuleSet/Extra/Telegram/Telegram.yaml
 
-;Google,clash-classic:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Video/YouTube.yaml
-;Google,clash-classic:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Music/YouTubeMusic.yaml
-Google,clash-domain:https://raw.githubusercontent.com/Kr328/V2rayDomains2Clash/generated/google.yaml
-Google,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/process_name/GoogleProc.list
+;Google,clash-classic:https://raw.iqiq.io/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Video/YouTube.yaml
+;Google,clash-classic:https://raw.iqiq.io/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Music/YouTubeMusic.yaml
+Google,clash-domain:https://raw.iqiq.io/Kr328/V2rayDomains2Clash/generated/google.yaml
+Google,surge:https://raw.iqiq.io/hardy-one/profile/master/ruleset/process_name/GoogleProc.list
 
-MicroSoft,clash-domain:https://raw.githubusercontent.com/Kr328/V2rayDomains2Clash/generated/microsoft-dev.yaml
+MicroSoft,clash-domain:https://raw.iqiq.io/Kr328/V2rayDomains2Clash/generated/microsoft-dev.yaml
 
-Netflix,clash-classic:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Video/Netflix.yaml
-Netflix,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Fast.list
+Netflix,clash-classic:https://raw.iqiq.io/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Video/Netflix.yaml
+Netflix,surge:https://raw.iqiq.io/hardy-one/profile/master/ruleset/Fast.list
 
-;GlobalMedia,clash-classic:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Streaming.yaml
-GMedia,clash-classic:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Video/DisneyPlus.yaml
-GMedia,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/gmedia.list
-;ChinaMedia,clash-classic:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/StreamingSE.yaml
-CMedia,clash-classic:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/StreamingSE.yaml
-;ChinaMedia,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/process_name/BiliBili.list
+;GlobalMedia,clash-classic:https://raw.iqiq.io/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Streaming.yaml
+GMedia,clash-classic:https://raw.iqiq.io/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Video/DisneyPlus.yaml
+GMedia,surge:https://raw.iqiq.io/hardy-one/profile/master/ruleset/gmedia.list
+;ChinaMedia,clash-classic:https://raw.iqiq.io/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/StreamingSE.yaml
+CMedia,clash-classic:https://raw.iqiq.io/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/StreamingSE.yaml
+;ChinaMedia,surge:https://raw.iqiq.io/hardy-one/profile/master/ruleset/process_name/BiliBili.list
 
-Steam,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Steam.list
-DIRECT,clash-ipcidr:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/Extra/ChinaIP.yaml
-;DIRECT,clash-ipcidr:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/ChinaIp.yaml
+Steam,surge:https://raw.iqiq.io/hardy-one/profile/master/ruleset/Steam.list
+DIRECT,clash-ipcidr:https://raw.iqiq.io/DivineEngine/Profiles/master/Clash/RuleSet/Extra/ChinaIP.yaml
+;DIRECT,clash-ipcidr:https://raw.iqiq.io/ACL4SSR/ACL4SSR/master/Clash/Providers/ChinaIp.yaml
 
 Manual,[]FINAL
