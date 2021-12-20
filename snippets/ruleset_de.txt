@@ -10,7 +10,7 @@ Telegram,clash-classic:https://raw.iqiq.io/DivineEngine/Profiles/master/Clash/Ru
 Google,clash-domain:https://raw.iqiq.io/Kr328/V2rayDomains2Clash/generated/google.yaml
 Google,surge:https://raw.iqiq.io/hardy-one/profile/master/ruleset/process_name/GoogleProc.list
 
-OneDrive,clash-classic:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/Extra/Microsoft/OneDrive.yaml
+OneDrive,surge:https://raw.iqiq.io/DivineEngine/Profiles/master/Clash/RuleSet/Extra/Microsoft/OneDrive.yaml
 
 Netflix,clash-classic:https://raw.iqiq.io/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Video/Netflix.yaml
 Netflix,surge:https://raw.iqiq.io/hardy-one/profile/master/ruleset/Fast.list

@@ -6,6 +6,8 @@ Telegram,surge:https://raw.iqiq.io/DivineEngine/Profiles/master/Surge/Ruleset/Ex
 Google,surge:https://raw.iqiq.io/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/YouTube.list
 Google,surge:https://raw.iqiq.io/hardy-one/profile/master/ruleset/Google.list
 
+OneDrive,surge:https://raw.iqiq.io/DivineEngine/Profiles/master/Clash/RuleSet/Extra/Microsoft/OneDrive.yaml
+
 Netflix,surge:https://raw.iqiq.io/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/Netflix.list
 Netflix,surge:https://raw.iqiq.io/hardy-one/profile/master/ruleset/Fast.list
 
@@ -16,7 +18,6 @@ GMedia,surge:https://raw.iqiq.io/hardy-one/profile/master/ruleset/gmedia.list
 CMedia,surge:https://raw.iqiq.io/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/StreamingSE.list
 
 Steam,surge:https://raw.iqiq.io/hardy-one/profile/master/ruleset/Steam.list
-;DIRECT,clash-ipcidr:https://raw.iqiq.io/DivineEngine/Profiles/master/Clash/RuleSet/Extra/ChinaIP.yaml
 
 DIRECT,[]GEOIP,CN
 Manual,[]FINAL
