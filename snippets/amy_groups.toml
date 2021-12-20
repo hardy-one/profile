@@ -14,7 +14,7 @@ type = "select"
 rule = ["[]Manual", "[]HK", "[]JP", "[]SG", "[]US", "[]TW", "[]OT", "[]DIRECT"]
 
 [[custom_groups]]
-name = "MicroSoft"
+name = "Microsoft"
 type = "select"
 rule = ["[]DIRECT", "[]Manual", "[]HK", "[]JP", "[]SG", "[]US", "[]TW", "[]OT"]
 
