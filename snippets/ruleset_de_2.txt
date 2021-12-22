@@ -11,10 +11,8 @@ OneDrive,surge:https://raw.iqiq.io/DivineEngine/Profiles/master/Surge/Ruleset/Ex
 Netflix,surge:https://raw.iqiq.io/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/Netflix.list
 Netflix,surge:https://raw.iqiq.io/hardy-one/profile/master/ruleset/Fast.list
 
-;GlobalMedia,surge:https://raw.iqiq.io/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Streaming.list
 GMedia,surge:https://raw.iqiq.io/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/DisneyPlus.list
-GMedia,surge:https://raw.iqiq.io/hardy-one/profile/master/ruleset/gmedia.list
-;ChinaMedia,surge:https://raw.iqiq.io/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/StreamingSE.list
+GMedia,surge:https://raw.iqiq.io/hardy-one/profile/master/ruleset/Gmedia_Addon.list
 CMedia,surge:https://raw.iqiq.io/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/StreamingSE.list
 
 Manual,surge:https://raw.iqiq.io/hardy-one/profile/master/ruleset/Steam.list

@@ -15,12 +15,9 @@ OneDrive,clash-classic:https://raw.iqiq.io/DivineEngine/Profiles/master/Clash/Ru
 Netflix,clash-classic:https://raw.iqiq.io/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Video/Netflix.yaml
 Netflix,surge:https://raw.iqiq.io/hardy-one/profile/master/ruleset/Fast.list
 
-;GlobalMedia,clash-classic:https://raw.iqiq.io/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Streaming.yaml
 GMedia,clash-classic:https://raw.iqiq.io/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Video/DisneyPlus.yaml
-GMedia,surge:https://raw.iqiq.io/hardy-one/profile/master/ruleset/gmedia.list
-;ChinaMedia,clash-classic:https://raw.iqiq.io/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/StreamingSE.yaml
+GMedia,surge:https://raw.iqiq.io/hardy-one/profile/master/ruleset/Gmedia_Addon.list
 CMedia,clash-classic:https://raw.iqiq.io/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/StreamingSE.yaml
-;ChinaMedia,surge:https://raw.iqiq.io/hardy-one/profile/master/ruleset/process_name/BiliBili.list
 
 Manual,surge:https://raw.iqiq.io/hardy-one/profile/master/ruleset/Steam.list
 DIRECT,clash-ipcidr:https://raw.iqiq.io/DivineEngine/Profiles/master/Clash/RuleSet/Extra/ChinaIP.yaml
