@@ -3,8 +3,9 @@ Manual,surge:https://raw.iqiq.io/hardy-one/profile/master/ruleset/ProxyList.list
 
 Telegram,surge:https://raw.iqiq.io/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Telegram/Telegram.list
 
-Google,surge:https://raw.iqiq.io/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/YouTube.list
-Google,surge:https://raw.iqiq.io/hardy-one/profile/master/ruleset/Google.list
+Google,surge:https://raw.iqiq.io/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Google.list
+Google,surge:https://raw.iqiq.io/ACL4SSR/ACL4SSR/master/Clash/Ruleset/GoogleCN.list
+Google,surge:https://raw.iqiq.io/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YouTube.list
 
 OneDrive,surge:https://raw.iqiq.io/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Microsoft/OneDrive.list
 
