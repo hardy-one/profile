@@ -1,3 +1,6 @@
+
+REJECT,[]tcp2p
+REJECT,[]udp2p
 DIRECT,surge:https://raw.iqiq.io/hardy-one/profile/master/ruleset/Pass.list
 Manual,surge:https://raw.iqiq.io/hardy-one/profile/master/ruleset/process_name/ProxyProc.list
 Manual,surge:https://raw.iqiq.io/hardy-one/profile/master/ruleset/ProxyList.list
