@@ -19,7 +19,8 @@ GMedia,clash-classic:https://raw.iqiq.io/DivineEngine/Profiles/master/Clash/Rule
 GMedia,surge:https://raw.iqiq.io/hardy-one/profile/master/ruleset/Gmedia_Addon.list
 CMedia,clash-classic:https://raw.iqiq.io/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/StreamingSE.yaml
 
-Manual,surge:https://raw.iqiq.io/hardy-one/profile/master/ruleset/Steam.list
+DIRECT,surge:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/SteamCN.list
+Manual,surge:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Steam.list
 DIRECT,clash-ipcidr:https://raw.iqiq.io/DivineEngine/Profiles/master/Clash/RuleSet/Extra/ChinaIP.yaml
 ;DIRECT,clash-ipcidr:https://raw.iqiq.io/ACL4SSR/ACL4SSR/master/Clash/Providers/ChinaIp.yaml
 
