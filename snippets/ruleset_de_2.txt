@@ -16,7 +16,7 @@ GMedia,surge:https://raw.iqiq.io/DivineEngine/Profiles/master/Surge/Ruleset/Stre
 GMedia,surge:https://raw.iqiq.io/hardy-one/profile/master/ruleset/Gmedia_Addon.list
 CMedia,surge:https://raw.iqiq.io/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/StreamingSE.list
 
-DIRECT,surge:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/SteamCN.list
+Steam,surge:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/SteamCN.list
 Manual,surge:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Steam.list
 
 DIRECT,[]GEOIP,CN
