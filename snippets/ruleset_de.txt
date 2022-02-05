@@ -10,7 +10,7 @@ Google,surge:https://raw.iqiq.io/ACL4SSR/ACL4SSR/master/Clash/Ruleset/GoogleCN.l
 Google,surge:https://raw.iqiq.io/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YouTube.list
 Google,surge:https://raw.iqiq.io/hardy-one/profile/master/ruleset/process_name/GoogleProc.list
 
-OneDrive,clash-classic:https://raw.iqiq.io/DivineEngine/Profiles/master/Clash/RuleSet/Extra/Microsoft/OneDrive.yaml
+OneDrive,clash-classic:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/clash/OneDrive.yaml
 
 Netflix,clash-classic:https://raw.iqiq.io/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Video/Netflix.yaml
 Netflix,surge:https://raw.iqiq.io/hardy-one/profile/master/ruleset/Fast.list
