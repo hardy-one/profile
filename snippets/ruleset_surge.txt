@@ -7,7 +7,7 @@ Google,surge:https://raw.iqiq.io/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Google.lis
 Google,surge:https://raw.iqiq.io/ACL4SSR/ACL4SSR/master/Clash/Ruleset/GoogleCN.list
 Google,surge:https://raw.iqiq.io/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YouTube.list
 
-OneDrive,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/OneDrive.list
+OneDrive,surge:https://raw.iqiq.io/hardy-one/profile/master/ruleset/OneDrive.list
 
 Netflix,surge:https://raw.iqiq.io/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/Netflix.list
 Netflix,surge:https://raw.iqiq.io/hardy-one/profile/master/ruleset/Fast.list
@@ -16,8 +16,8 @@ GMedia,surge:https://raw.iqiq.io/DivineEngine/Profiles/master/Surge/Ruleset/Stre
 GMedia,surge:https://raw.iqiq.io/hardy-one/profile/master/ruleset/Gmedia_Addon.list
 CMedia,surge:https://raw.iqiq.io/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/StreamingSE.list
 
-Steam,surge:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/SteamCN.list
-Manual,surge:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Steam.list
+Steam,surge:https://raw.iqiq.io/ACL4SSR/ACL4SSR/master/Clash/Ruleset/SteamCN.list
+Manual,surge:https://raw.iqiq.io/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Steam.list
 
 DIRECT,[]GEOIP,CN
 Manual,[]FINAL
