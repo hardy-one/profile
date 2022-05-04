@@ -21,6 +21,7 @@ CMedia,clash-classic:https://raw.iqiq.io/DivineEngine/Profiles/master/Clash/Rule
 
 Steam,surge:https://raw.iqiq.io/ACL4SSR/ACL4SSR/master/Clash/Ruleset/SteamCN.list
 Manual,surge:https://raw.iqiq.io/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Steam.list
+Mask,surge:https://raw.iqiq.io/hardy-one/profile/master/ruleset/process_name/androidCNProc.list
 DIRECT,clash-ipcidr:https://raw.iqiq.io/DivineEngine/Profiles/master/Clash/RuleSet/Extra/ChinaIP.yaml
 ;DIRECT,clash-ipcidr:https://raw.iqiq.io/ACL4SSR/ACL4SSR/master/Clash/Providers/ChinaIp.yaml
 
