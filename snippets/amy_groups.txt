@@ -1,4 +1,5 @@
 Manual`select`[]HK`[]JP`[]SG`[]US`[]TW`[]DIRECT
+Mask`select`[]Manual`[]HK`[]JP`[]SG`[]US`[]TW`[]DIRECT
 Telegram`select`[]Manual`[]HK`[]JP`[]SG`[]US`[]TW`[]DIRECT
 Google`select`[]Manual`[]HK`[]JP`[]SG`[]US`[]TW`[]DIRECT
 OneDrive`select`[]DIRECT`[]Manual`[]HK`[]JP`[]SG`[]US`[]TW
