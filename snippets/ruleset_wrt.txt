@@ -19,5 +19,7 @@ CMedia,surge:https://raw.iqiq.io/DivineEngine/Profiles/master/Surge/Ruleset/Stre
 Steam,surge:https://raw.iqiq.io/ACL4SSR/ACL4SSR/master/Clash/Ruleset/SteamCN.list
 Manual,surge:https://raw.iqiq.io/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Steam.list
 
+Mask,surge:https://raw.iqiq.io/hardy-one/profile/master/ruleset/MaskCN.list
+
 DIRECT,clash-ipcidr:https://raw.iqiq.io/DivineEngine/Profiles/master/Clash/RuleSet/Extra/ChinaIP.yaml
 Manual,[]FINAL
