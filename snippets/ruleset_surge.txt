@@ -1,24 +1,24 @@
-DIRECT,surge:https://raw.iqiq.io/hardy-one/profile/master/ruleset/Pass.list
-Manual,surge:https://raw.iqiq.io/hardy-one/profile/master/ruleset/ProxyList.list
+DIRECT,surge:https://raw.fastgit.org/hardy-one/profile/master/ruleset/Pass.list
+Manual,surge:https://raw.fastgit.org/hardy-one/profile/master/ruleset/ProxyList.list
 
-Telegram,surge:https://raw.iqiq.io/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Telegram/Telegram.list
+Telegram,surge:https://raw.fastgit.org/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Telegram/Telegram.list
 
-Google,surge:https://raw.iqiq.io/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Google.list
-Google,surge:https://raw.iqiq.io/ACL4SSR/ACL4SSR/master/Clash/Ruleset/GoogleCN.list
-Google,surge:https://raw.iqiq.io/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YouTube.list
+Google,surge:https://raw.fastgit.org/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Google.list
+Google,surge:https://raw.fastgit.org/ACL4SSR/ACL4SSR/master/Clash/Ruleset/GoogleCN.list
+Google,surge:https://raw.fastgit.org/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YouTube.list
 
-OneDrive,surge:https://raw.iqiq.io/hardy-one/profile/master/ruleset/OneDrive.list
+OneDrive,surge:https://raw.fastgit.org/hardy-one/profile/master/ruleset/OneDrive.list
 
-Netflix,surge:https://raw.iqiq.io/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/Netflix.list
-Netflix,surge:https://raw.iqiq.io/hardy-one/profile/master/ruleset/Fast.list
+Netflix,surge:https://raw.fastgit.org/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/Netflix.list
+Netflix,surge:https://raw.fastgit.org/hardy-one/profile/master/ruleset/Fast.list
 
-GMedia,surge:https://raw.iqiq.io/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/DisneyPlus.list
-GMedia,surge:https://raw.iqiq.io/hardy-one/profile/master/ruleset/Gmedia_Addon.list
-CMedia,surge:https://raw.iqiq.io/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/StreamingSE.list
+GMedia,surge:https://raw.fastgit.org/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/DisneyPlus.list
+GMedia,surge:https://raw.fastgit.org/hardy-one/profile/master/ruleset/Gmedia_Addon.list
+CMedia,surge:https://raw.fastgit.org/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/StreamingSE.list
 
-Steam,surge:https://raw.iqiq.io/ACL4SSR/ACL4SSR/master/Clash/Ruleset/SteamCN.list
-Manual,surge:https://raw.iqiq.io/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Steam.list
+Steam,surge:https://raw.fastgit.org/ACL4SSR/ACL4SSR/master/Clash/Ruleset/SteamCN.list
+Manual,surge:https://raw.fastgit.org/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Steam.list
 
-Mask,surge:https://raw.iqiq.io/hardy-one/profile/master/ruleset/MaskCN.list
+Mask,surge:https://raw.fastgit.org/hardy-one/profile/master/ruleset/MaskCN.list
 DIRECT,[]GEOIP,CN
 Manual,[]FINAL
