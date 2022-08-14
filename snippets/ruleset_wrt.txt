@@ -20,7 +20,7 @@ CMedia,surge:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surg
 Steam,surge:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/SteamCN.list
 Manual,surge:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Steam.list
 
-Mask,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/MaskCN.list
+;Mask,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/MaskCN.list
 
 ;DIRECT,clash-ipcidr:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/Extra/ChinaIP.yaml
 DIRECT,clash-ipcidr:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/ChinaIp.yaml
