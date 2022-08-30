@@ -40,6 +40,8 @@
 \[(Hungary|匈牙利),🇭🇺
 \[(Bulgaria|保加利亚),🇧🇬
 \[(阿联酋),🇦🇪
+\[(阿赛拜疆),🇦🇿
+\[(乌克兰),🇺🇦
 \[(?i:UK|England|United.*?Kingdom|London|英国|[^-]英|伦敦),🇬🇧
 \[(?i:SG|Singapore|新加坡|狮城|[^-]新),🇸🇬
 \[(?i:RU|Russia|Moscow|Petersburg|Siberia|伯力|莫斯科|圣彼得堡|西伯利亚|新西伯利亚|哈巴罗夫斯克|俄罗斯|[^-]俄),🇷🇺
