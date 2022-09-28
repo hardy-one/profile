@@ -1,5 +1,5 @@
 DIRECT,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Pass.list
-REJECT,clash-domain:https://anti-ad.net/clash.yaml
+;REJECT,clash-domain:https://anti-ad.net/clash.yaml
 Manual,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/ProxyList.list
 
 Telegram,surge:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Telegram/Telegram.list
