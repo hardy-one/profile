@@ -48,14 +48,16 @@ GMedia,surge:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surg
 GMedia,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Gmedia_Addon.list
 CMedia,surge:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/StreamingSE.list
 
+DIRECT,clash-ipcidr:https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/lancidr.txt
+DIRECT,[]GEOIP,LAN
+
 Telegram,clash-ipcidr:https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/telegramcidr.txt
 Netflix,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/clash/Netflix_ipcidr.yaml
 
 Manual,clash-domain:https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/proxy.txt
 DIRECT,clash-domain:https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/direct.txt
 
-DIRECT,clash-ipcidr:https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/lancidr.txt
 DIRECT,clash-ipcidr:https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/cncidr.txt
-DIRECT,[]GEOIP,LAN
+
 ; DIRECT,clash-ipcidr:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/ChinaIp.yaml
 Manual,[]FINAL
