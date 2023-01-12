@@ -2,8 +2,8 @@
 
 
 ;DIRECT,clash-classic:https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/applications.txt
-DIRECT,[]clash.razord.top
-DIRECT,[]yacd.haishan.me
+DIRECT,[]DOMAIN,clash.razord.top
+DIRECT,[]DOMAIN,yacd.haishan.me
 DIRECT,clash-domain:https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/private.txt
 ; REJECT,clash-domain:https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/reject.txt
 DIRECT,clash-domain:https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/icloud.txt
