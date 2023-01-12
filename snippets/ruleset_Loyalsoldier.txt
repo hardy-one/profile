@@ -1,0 +1,19 @@
+
+
+
+;DIRECT,clash-classic:https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/applications.txt
+DIRECT,[]clash.razord.top
+DIRECT,[]yacd.haishan.me
+DIRECT,clash-domain:https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/private.txt
+; REJECT,clash-domain:https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/reject.txt
+DIRECT,clash-domain:https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/icloud.txt
+DIRECT,clash-domain:https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/apple.txt
+; DIRECT,clash-domain:https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/google.txt
+Manual,clash-domain:https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/proxy.txt
+DIRECT,clash-domain:https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/direct.txt
+DIRECT,clash-ipcidr:https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/lancidr.txt
+DIRECT,clash-ipcidr:https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/cncidr.txt
+Manual,clash-ipcidr:https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/telegramcidr.txt
+DIRECT,[]GEOIP,LAN
+; DIRECT,clash-ipcidr:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/ChinaIp.yaml
+Manual,[]FINAL
