@@ -36,19 +36,20 @@ DIRECT,clash-domain:https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release
 DIRECT,clash-domain:https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/apple.txt
 
 Google,clash-domain:https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/google.txt
-Google,surge:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Google.list
-Google,surge:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/GoogleCN.list
+;Google,surge:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Google.list
+;Google,surge:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/GoogleCN.list
 Google,surge:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YouTube.list
 OneDrive,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/OneDrive.list
 
-Netflix,surge:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/Netflix.list
-Netflix,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Fast.list
+Netflix,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/clash/Netflix.yaml
+Netflix,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/clash/Netflix_ipcidr.yaml
 
 GMedia,surge:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/DisneyPlus.list
 GMedia,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Gmedia_Addon.list
 CMedia,surge:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/StreamingSE.list
 
 Telegram,clash-ipcidr:https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/telegramcidr.txt
+Netflix,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/clash/Netflix_ipcidr.yaml
 
 Manual,clash-domain:https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/proxy.txt
 DIRECT,clash-domain:https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/direct.txt
