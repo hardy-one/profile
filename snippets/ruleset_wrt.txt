@@ -41,7 +41,7 @@ Google,clash-domain:https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release
 Google,surge:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YouTube.list
 OneDrive,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/OneDrive.list
 
-Netflix,clash-classic:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/clash/Netflix.yaml
+Netflix,clash-domain:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/clash/Netflix.yaml
 ;Netflix,clash-ipcidr:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/clash/Netflix_ipcidr.yaml
 
 GMedia,surge:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/DisneyPlus.list
