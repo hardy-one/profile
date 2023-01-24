@@ -41,8 +41,8 @@ Google,clash-domain:https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release
 Google,surge:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YouTube.list
 OneDrive,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/OneDrive.list
 
-Netflix,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/clash/Netflix.yaml
-Netflix,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/clash/Netflix_ipcidr.yaml
+Netflix,clash-classic:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/clash/Netflix.yaml
+;Netflix,clash-ipcidr:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/clash/Netflix_ipcidr.yaml
 
 GMedia,surge:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/DisneyPlus.list
 GMedia,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Gmedia_Addon.list
@@ -52,7 +52,7 @@ DIRECT,clash-ipcidr:https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release
 DIRECT,[]GEOIP,LAN
 
 Telegram,clash-ipcidr:https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/telegramcidr.txt
-Netflix,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/clash/Netflix_ipcidr.yaml
+Netflix,clash-ipcidr:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/clash/Netflix_ipcidr.yaml
 
 DIRECT,clash-domain:https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/direct.txt
 
