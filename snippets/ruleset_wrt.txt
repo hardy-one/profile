@@ -48,7 +48,7 @@ GMedia,surge:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surg
 GMedia,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Gmedia_Addon.list
 CMedia,surge:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/StreamingSE.list
 
-Manual,clash-domain:https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/greatfire.txt
+Manual,clash-domain:https://raw.iqiq.io/Loyalsoldier/clash-rules/release/greatfire.txt
 
 ;DIRECT,clash-ipcidr:https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/lancidr.txt
 DIRECT,[]GEOIP,LAN,no-resolve
