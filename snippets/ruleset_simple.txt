@@ -6,7 +6,7 @@ Manual,[]DOMAIN-KEYWORD,bing
 REJECT,[]SCRIPT,bilibilishit,no-resolve
 REJECT,[]SCRIPT,douyushit,no-resolve
 REJECT,[]SCRIPT,quic,no-resolve
-DIREC,[]SCRIPT,tailscale,no-resolve
+DIRECT,[]SCRIPT,tailscale,no-resolve
 DIRECT,[]GEOIP,LAN
 DIRECT,[]GEOIP,CN
 Manual,[]FINAL
