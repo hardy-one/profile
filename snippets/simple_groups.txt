@@ -1,0 +1,8 @@
+Manual`select`[]HK`[]JP`[]SG`[]US`[]TW`[]OT`[]DIRECT
+
+HK`select`香港`Hong Kong
+JP`select`日本`Japan
+SG`select`新加坡`Singapore
+US`select`美国`United States`USA
+TW`select`台湾`Taiwan
+OT`select`^(?!.*(香港|台湾|新加坡|日本|美国|Hong Kong|Japan|Singapore|United States|USA|Taiwan)).*$

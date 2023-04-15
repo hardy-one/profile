@@ -1,0 +1,8 @@
+Manual`select`[]HK`[]JP`[]SG`[]US`[]TW`[]OT`[]DIRECT
+
+HK`select`\[香港
+JP`select`\[日本
+SG`select`\[新加坡
+US`select`\[美国
+TW`select`\[台湾
+OT`select`^(?!.*(\[香港|\[台湾|\[新加坡|\[日本|\[美国)).*$
