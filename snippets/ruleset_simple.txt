@@ -1,4 +1,4 @@
-
+Manual,clash-domain:https://raw.iqiq.io/Loyalsoldier/clash-rules/release/gfw.txt
 Manual,[]DOMAIN-KEYWORD,google,Manual
 Manual,[]DOMAIN-KEYWORD,youtube,Manual
 Manual,[]DOMAIN-KEYWORD,bing
