@@ -3,8 +3,6 @@ Manual,[]DOMAIN-KEYWORD,google,Manual
 Manual,[]DOMAIN-KEYWORD,youtube,Manual
 Manual,[]DOMAIN-KEYWORD,bing
 
-REJECT,[]SCRIPT,bilibilishit,no-resolve
-REJECT,[]SCRIPT,douyushit,no-resolve
 REJECT,[]SCRIPT,quic,no-resolve
 DIRECT,[]SCRIPT,tailscale,no-resolve
 DIRECT,[]GEOIP,LAN
