@@ -1,10 +1,8 @@
 Manual,clash-domain:https://raw.gitmirror.com/Loyalsoldier/clash-rules/release/gfw.txt
-Manual,[]DOMAIN-KEYWORD,google,Manual
-Manual,[]DOMAIN-KEYWORD,youtube,Manual
+Manual,[]DOMAIN-KEYWORD,google
+Manual,[]DOMAIN-KEYWORD,youtube
 Manual,[]DOMAIN-KEYWORD,bing
 
-REJECT,[]SCRIPT,quic,no-resolve
-DIRECT,[]SCRIPT,tailscale,no-resolve
 DIRECT,[]GEOIP,LAN
 DIRECT,[]GEOIP,CN
 Manual,[]FINAL

@@ -1,48 +1,17 @@
-; DIRECT,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Pass.list
-; ;REJECT,clash-domain:https://anti-ad.net/clash.yaml
-; Manual,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/ProxyList.list
-
-; Telegram,surge:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Telegram/Telegram.list
-
-; Google,surge:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Google.list
-; Google,surge:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/GoogleCN.list
-; Google,surge:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YouTube.list
-
-; OneDrive,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/OneDrive.list
-
-; Netflix,surge:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/Netflix.list
-; Netflix,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Fast.list
-
-; GMedia,surge:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/DisneyPlus.list
-; GMedia,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Gmedia_Addon.list
-; CMedia,surge:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/StreamingSE.list
-
-; Steam,surge:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/SteamCN.list
-; Manual,surge:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Steam.list
-
-; ;Mask,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/MaskCN.list
-
-; ;DIRECT,clash-ipcidr:https://raw.iqiq.io/DivineEngine/Profiles/master/Clash/RuleSet/Extra/ChinaIP.yaml
-; DIRECT,clash-ipcidr:https://raw.iqiq.io/ACL4SSR/ACL4SSR/master/Clash/Providers/ChinaIp.yaml
-; Manual,[]FINAL
-
-
-;DIRECT,clash-classic:https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/applications.txt
 DIRECT,[]DOMAIN,clash.razord.top
 DIRECT,[]DOMAIN,yacd.haishan.me
+DIRECT,[]GEOIP,LAN,no-resolve
+DIRECT,clash-ipcidr:https://raw.gitmirror.com/hardy-one/profile/master/ruleset/clash/private_ipcidr.yaml,no-resolve
+
 DIRECT,clash-domain:https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/private.txt
-; REJECT,clash-domain:https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/reject.txt
 DIRECT,clash-domain:https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/icloud.txt
 DIRECT,clash-domain:https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/apple.txt
 
 Google,clash-domain:https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/google.txt
-;Google,surge:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Google.list
-;Google,surge:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/GoogleCN.list
 Google,surge:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YouTube.list
 OneDrive,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/OneDrive.list
 
 Netflix,clash-domain:https://raw.gitmirror.com/hardy-one/profile/master/ruleset/clash/Netflix.yaml
-;Netflix,clash-ipcidr:https://raw.iqiq.io/hardy-one/profile/master/ruleset/clash/Netflix_ipcidr.yaml
 
 GMedia,surge:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/DisneyPlus.list
 GMedia,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Gmedia_Addon.list
@@ -50,16 +19,10 @@ CMedia,surge:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surg
 
 Manual,clash-domain:https://raw.gitmirror.com/Loyalsoldier/clash-rules/release/gfw.txt
 
-;DIRECT,clash-ipcidr:https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/lancidr.txt
-DIRECT,[]GEOIP,LAN,no-resolve
-
 Telegram,clash-ipcidr:https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/telegramcidr.txt
 Netflix,clash-ipcidr:https://raw.gitmirror.com/hardy-one/profile/master/ruleset/clash/Netflix_ipcidr.yaml
 
 DIRECT,clash-domain:https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/direct.txt
 
 DIRECT,clash-ipcidr:https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/cncidr.txt
-; Manual,clash-domain:https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/proxy.txt
-
-; DIRECT,clash-ipcidr:https://raw.iqiq.io/ACL4SSR/ACL4SSR/master/Clash/Providers/ChinaIp.yaml
 Manual,[]FINAL
