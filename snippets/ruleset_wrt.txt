@@ -1,7 +1,7 @@
 DIRECT,[]DOMAIN,clash.razord.top
 DIRECT,[]DOMAIN,yacd.haishan.me
 DIRECT,[]GEOIP,LAN,no-resolve
-DIRECT,clash-ipcidr:https://raw.gitmirror.com/hardy-one/profile/master/ruleset/clash/private_ipcidr.yaml,no-resolve
+DIRECT,clash-ipcidr:https://raw.gitmirror.com/hardy-one/profile/master/ruleset/clash/Private_ipcidr.yaml,no-resolve
 
 DIRECT,clash-domain:https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/private.txt
 DIRECT,clash-domain:https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/icloud.txt
