@@ -4,9 +4,9 @@ DIRECT,[]GEOIP,LAN,no-resolve
 DIRECT,clash-ipcidr:https://raw.gitmirror.com/hardy-one/profile/master/ruleset/clash/Private_ipcidr.yaml,no-resolve
 
 DIRECT,surge:https://ruleset.skk.moe/Clash/non_ip/sogouinput.txt
-DIRECT,clash-domain:https://ruleset.skk.moe/Clash/domainset/cdn.txt
+DIRECT,surge:https://ruleset.skk.moe/List/non_ip/cdn.conf
 
-DIRECT,clash-domain:https://ruleset.skk.moe/Clash/domainset/apple_cdn.txt
+DIRECT,surge:https://ruleset.skk.moe/List/domainset/apple_cdn.conf
 Manual,surge:https://ruleset.skk.moe/Clash/non_ip/apple_services.txt
 
 Netflix,clash-domain:https://raw.gitmirror.com/hardy-one/profile/master/ruleset/clash/Netflix.yaml
@@ -23,7 +23,7 @@ Manual,surge:https://ruleset.skk.moe/Clash/non_ip/global.txt
 ;;;; IP rule
 
 Netflix,clash-ipcidr:https://raw.gitmirror.com/hardy-one/profile/master/ruleset/clash/Netflix_ipcidr.yaml
-GMedia,clash-ipcidr:https://ruleset.skk.moe/Clash/ip/stream.txt
+GMedia,surge:https://ruleset.skk.moe/Clash/ip/stream.txt
 Telegram,surge:https://ruleset.skk.moe/Clash/ip/telegram.txt
 
 DIRECT,surge:https://ruleset.skk.moe/Clash/ip/domestic.txt
