@@ -13,9 +13,9 @@ OneDrive,surge:https://raw.githubusercontent.com/hardy-one/profile/master/rulese
 
 Netflix,clash-domain:https://raw.gitmirror.com/hardy-one/profile/master/ruleset/clash/Netflix.yaml
 
-GMedia,surge:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/DisneyPlus.list
+GMedia,surge:https://github.com/KuaiCode/DivineEngine/raw/refs/heads/master/Surge/Ruleset/ForeignMedia.list
 GMedia,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Gmedia_Addon.list
-CMedia,surge:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/StreamingSE.list
+CMedia,surge:https://github.com/KuaiCode/DivineEngine/raw/refs/heads/master/Surge/Ruleset/DomesticMedia.list
 
 Manual,clash-domain:https://raw.gitmirror.com/Loyalsoldier/clash-rules/release/gfw.txt
 
