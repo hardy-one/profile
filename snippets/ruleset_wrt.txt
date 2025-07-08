@@ -1,26 +1,26 @@
 DIRECT,[]DOMAIN,clash.razord.top
 DIRECT,[]DOMAIN,yacd.haishan.me
 DIRECT,[]GEOIP,LAN,no-resolve
-DIRECT,clash-ipcidr:https://raw.gitmirror.com/hardy-one/profile/master/ruleset/clash/Private_ipcidr.yaml,no-resolve
+DIRECT,clash-ipcidr:https://cdn.jsdelivr.net/gh/hardy-one/profile/ruleset/clash/Private_ipcidr.yaml,no-resolve
 
 DIRECT,clash-domain:https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/private.txt
 DIRECT,clash-domain:https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/icloud.txt
 DIRECT,clash-domain:https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/apple.txt
 
 Google,clash-domain:https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/google.txt
-Google,surge:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YouTube.list
-OneDrive,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/OneDrive.list
+Google,surge:https://cdn.jsdelivr.net/gh/KuaiCode/DivineEngine/Surge/Ruleset/Media/Youtube.list
+OneDrive,surge:https://cdn.jsdelivr.net/gh/hardy-one/profile/ruleset/OneDrive.list
 
 Netflix,clash-domain:https://raw.gitmirror.com/hardy-one/profile/master/ruleset/clash/Netflix.yaml
 
-GMedia,surge:https://github.com/KuaiCode/DivineEngine/raw/refs/heads/master/Surge/Ruleset/ForeignMedia.list
-GMedia,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Gmedia_Addon.list
-CMedia,surge:https://github.com/KuaiCode/DivineEngine/raw/refs/heads/master/Surge/Ruleset/DomesticMedia.list
+GMedia,surge:https://cdn.jsdelivr.net/gh/KuaiCode/DivineEngine/Surge/Ruleset/ForeignMedia.list
+GMedia,surge:https://cdn.jsdelivr.net/gh/hardy-one/profile/ruleset/Gmedia_Addon.list
+CMedia,surge:https://cdn.jsdelivr.net/gh/KuaiCode/DivineEngine/Surge/Ruleset/DomesticMedia.list
 
-Manual,clash-domain:https://raw.gitmirror.com/Loyalsoldier/clash-rules/release/gfw.txt
+Manual,clash-domain:https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules/release/gfw.txt
 
 Telegram,clash-ipcidr:https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/telegramcidr.txt
-Netflix,clash-ipcidr:https://raw.gitmirror.com/hardy-one/profile/master/ruleset/clash/Netflix_ipcidr.yaml
+Netflix,clash-ipcidr:https://cdn.jsdelivr.net/gh/hardy-one/profile/ruleset/clash/Netflix_ipcidr.yaml
 
 DIRECT,clash-domain:https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/direct.txt
 
